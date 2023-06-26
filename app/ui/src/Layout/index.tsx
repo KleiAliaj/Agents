@@ -39,9 +39,9 @@ export default function DashboardLayout({
                     <img
                       className="h-8 w-auto"
                       src="/logo.png"
-                      alt="Dialoqbase"
+                      alt="Dialogs"
                     />
-                    <span className="ml-1 text-xl font-bold">Dialoqbase</span>
+                    <span className="ml-1 text-xl font-bold">Dialogs</span>
                   </Link>
                   <div className=" ml-6 flex items-center">
                     <Menu as="div" className="relative ml-3">
