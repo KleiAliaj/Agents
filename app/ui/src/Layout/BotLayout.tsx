@@ -133,7 +133,7 @@ export default function BotLayout({
                       src="/logo.png"
                       alt="Dialoqbase"
                     />
-                    <span className="ml-1 text-xl font-bold">Dialoqbase</span>
+                    <span className="ml-1 text-xl font-bold">Dialogs</span>
                   </Link>
                   <div className="mt-5 h-0 flex-1 overflow-y-auto">
                     <nav className="space-y-1 px-2">
