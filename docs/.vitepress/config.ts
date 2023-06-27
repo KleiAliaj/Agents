@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Dialoqbase",
+  title: "Dialogs",
   description: "Create chatbots with ease",
   lastUpdated: true,
   head: [
@@ -29,8 +29,8 @@ export default defineConfig({
         text: "Introduction",
         collapsed: false,
         items: [
-          { text: "What is Dialoqbase", link: "/guide/what-is-dialoqbase" },
-          { text: "Why Dialoqbase", link: "/guide/why-dialoqbase" },
+          { text: "What is Dialogs", link: "/guide/what-is-dialoqbase" },
+          { text: "Why Dialogs", link: "/guide/why-dialoqbase" },
         ],
       },
       {

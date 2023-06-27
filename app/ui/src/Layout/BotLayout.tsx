@@ -182,7 +182,7 @@ export default function BotLayout({
               className="focus:outline-none focus-visible:ring-2 focus-visible:ring-pink-700 flex items-center px-3"
             >
               <img className="h-8 w-auto" src="/logo.png" alt="Dialoqbase" />
-              <span className="ml-1 text-xl font-bold">Dialoqbase</span>
+              <span className="ml-1 text-xl font-bold">Dialogs</span>
             </Link>
             <div className="mt-5 flex flex-grow flex-col">
               <nav className="flex-1 space-y-1 px-2 pb-4">
